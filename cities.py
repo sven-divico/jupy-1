@@ -1,5 +1,12 @@
 cities = [
     {
+        "name": "Rosenheim",
+        "pubs": [
+            {"name": "McSorley's Old Ale House", "address": "15 E 7th St, New York, NY 10003"},
+            {"name": "Molly's Pub and Shebeen", "address": "287 3rd Ave, New York, NY 10010"}
+        ]
+    },
+    {
         "name": "New York",
         "pubs": [
             {"name": "McSorley's Old Ale House", "address": "15 E 7th St, New York, NY 10003"},
